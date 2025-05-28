@@ -1,3 +1,4 @@
+"use client"
 
 import { MetricsCards } from "@/components/MetricsCards";
 import { ChartsSection } from "@/components/ChartsSection";
